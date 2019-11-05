@@ -1,7 +1,7 @@
 Welcome to CattleTEC!!
 
 
-Take control of your herd's tomorrow, today!
+Helping you take control of your herd's tomorrow, today!
 
 
 ![CattleTEC](CattleTEC-PNG.png "CattleTEC Logo")
