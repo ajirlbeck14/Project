@@ -28,7 +28,7 @@ The Farmer can decide:
 * Commodities
 * Point of Interest
 
-
+So we brought in Quandl data on the CME for Corn, Live Cattle, and Feeder Cattle. This gave us information including opening price, closing price, highest daily price, lowest daily price, volume traded, and daily change for all three commodities. 
 
 
 ## Project Workflow
@@ -39,15 +39,15 @@ to accomplish our project for ABE 516X this semester
 ![Project Workflow](516-Project.png "WorkFlow")
 
 ## Results
-
+First we started by pulling in cattle prices for both feeder and live cattle from September 2010 to September 2019 so that we could display this.
 ![Cattle Prices](CattlePrices.png "Cattle Prices")
-
+We also brought in corn prices during that time frame
 ![Corn Prices](CornPrices.png "Corn Prices")
-
+We used LSTM neural network training for our machine learning algorithm and started with our baseline prediction which essentially just averaged the last 50 days closing price to predict the next days
 ![Baseline Predictions](BaselinePrediction.png "Baseline Predictions")
-
+We then moved to a slightly more elaborate model which took into account all of the data we were giving it and attempted to predict one point a set amount of days later. For this one we took 300 days worth of data and attempted to go 30 days forward. The results are seen below.
 ![Single Step Predictions](SingleStepPredictions.png "Single Step Predictions")
-
+Finally we wanted to try to predict every day to see how well our trends matched. So we again used all of the data for the last 300 days but tried to predict each of the next 30 days. This was a disappointing result as you can see below as it didn't appear to correlate well at all.
 ![Multi Step Predictions](MultiStepPredicitons.png "Multi Step Predictions")
 
 ## Topics Relevant to ABE 516X 
