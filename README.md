@@ -48,7 +48,7 @@ to accomplish our project for ABE 516X this semester
 
 ![Single Step Predictions](SingleStepPredictions.png "Single Step Predictions")
 
-![Multi Step Predictions](MultiStepPredictions.png "Multi Step Predictions")
+![Multi Step Predictions](MultiStepPredicitons.png "Multi Step Predictions")
 
 ## Topics Relevant to ABE 516X 
 Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
