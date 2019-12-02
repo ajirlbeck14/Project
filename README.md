@@ -58,6 +58,11 @@ Finally we wanted to try to predict every day to see how well our trends matched
 Due to our limited knowledge of deep machine learning and LSTM we are unclear on the accuracy of these results at this time so going forward we are going to continue to investigate how changing parameters will influence the model. In addition, this was right on the verge of our hardware capabilities so an AWS workspace may be necessary to continue to increase the accuracy of our model. Additional factors that we are looking to add into this predictive algorithm include weather patterns in the midwest, other commodities, and key stock values which may provide indications of market direction.
 
 ## Topics Relevant to ABE 516X 
+* Importing, handling, and storing data
+* Merging, manipulating and cleaning (removing nulls, etc) from databases
+* setting up training and testing datasets for us in machine learning
+* Finding and breaking down documentation in order to implement machine learning. LSTM was not discussed in class but this allowed us to work with it
+
 Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
 
 
