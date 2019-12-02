@@ -67,7 +67,7 @@ Ability to automate and reproduce your analysis (if the file input were to chang
 
 
 ## Assignment
-Creation of one assignment based on your dataset for the class to complete - one can think of this of a task or homework assignment based on your project.
+Pull in three stock or commodity datasets from the Quandl API of your choosing and process them down to remove any null or strange values. Then graphically display them and comment on any trends that you think may tie between the three sets. Finally merge them down to one dataset of the most important variable from each so that it can easily be used for future machine learning analysis.
 
 
 
