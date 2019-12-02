@@ -20,7 +20,7 @@ Goal is to use Data to Help Cow/Calf Producers Make Better Management Decisions 
   * Input / Feed Costs  :white_check_mark:
 
 ## Data Analysis Task
-An important feature of CattleTEC is being able to market forecast. The goal of this project is to bring in commodity values that matter to cow / calf producers and display them in a quick and easy to understand format that allows the user to refine and select out what timeframe of the markets they would like to explore. In addition, we are also developing a machine learning algorithm that will analyze the commodity trends from previous years in order to forecast out what the markets will do before they occur. This will  give farmers a competitive advantage when marketing their animals.
+An important feature of CattleTEC is being able to market forecast. The goal of this project is to bring in commodity values that matter to cow/calf producers and display them in a quick and easy to understand format that allows the user to refine and select out what timeframe of the markets they would like to explore. In addition, we are also developing a machine learning algorithm that will analyze the commodity trends from previous years in order to forecast out what the markets will do before they occur. This will  give farmers a competitive advantage when marketing their animals.
 
 ## Data Inputs
 * Timeframe of the Market
