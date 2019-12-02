@@ -62,15 +62,10 @@ Due to our limited knowledge of deep machine learning and LSTM we are unclear on
 * Merging, manipulating and cleaning (removing nulls, etc) from databases
 * setting up training and testing datasets for us in machine learning
 * Finding and breaking down documentation in order to implement machine learning. LSTM was not discussed in class but this allowed us to work with it
-
-Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
-
-
+* Evaluating model perforamance
 
 ## Automate and Reproduce Analysis
 Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
-
-
 
 ## Assignment
 Pull in three stock or commodity datasets from the Quandl API of your choosing and process them down to remove any null or strange values. Then graphically display them and comment on any trends that you think may tie between the three sets. Finally merge them down to one dataset of the most important variable from each so that it can easily be used for future machine learning analysis.
