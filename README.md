@@ -30,6 +30,7 @@ The Farmer can decide:
 
 So we brought in Quandl data on the CME for Corn, Live Cattle, and Feeder Cattle. This gave us information including opening price, closing price, highest daily price, lowest daily price, volume traded, and daily change for all three commodities. 
 
+![Inputs](inputs.png "Inputs")
 
 ## Project Workflow
 Here you can see a brief layout of how we intend
