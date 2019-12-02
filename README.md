@@ -3,8 +3,30 @@
 
 Helping you take control of your herd's tomorrow, today!
 
-
 ![CattleTEC](CattleTEC-PNG.png "CattleTEC Logo")
+
+## Background
+Goal is to use Data to Help Cow/Calf Producers Make Better Management Decisions to Increase Profitability
+
+* Extremely volatile and uncertain markets for agricultural commodities
+  * Unexpected weather
+  * Global politics
+* Many cow/calf producers today don’t have records of their operation
+  * Time / Other priorities
+  * Numerous variables making it difficult to be organized
+* Factors on Profitability
+  * Weather Patterns  :x:
+  * Markets :x:
+  * Input / Feed Costs  :white_check_mark:
+
+## Data Analysis Task
+
+
+## Data Inputs
+
+
+
+
 
 ## Project Workflow
 Here you can see a brief layout of how we intend
