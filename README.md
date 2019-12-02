@@ -65,7 +65,7 @@ Due to our limited knowledge of deep machine learning and LSTM we are unclear on
 * Evaluating model perforamance
 
 ## Automate and Reproduce Analysis
-Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
+Quandl allows for a similar exercise to be done very easily. You simply need to change your API key to bring in a different dataset. While the variable names are set up for cattle to make it easier for us this would be the only confusing part of changing to different commodities or stocks. The LSTM models themselves are pretty resilient to any changes to the dataset. As long as you provide a long enough dataset then you shouldn't have to change anything and worse case you would have to change the lengths of different analysis. All in all, this is a very repeatible program that really doesn't change for any type of stock or commodity datasets that you would choose to feed it.
 
 ## Assignment
 Pull in three stock or commodity datasets from the Quandl API of your choosing and process them down to remove any null or strange values. Then graphically display them and comment on any trends that you think may tie between the three sets. Finally merge them down to one dataset of the most important variable from each so that it can easily be used for future machine learning analysis.
