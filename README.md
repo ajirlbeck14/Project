@@ -14,9 +14,9 @@ Challenges in the Cow/Calf Industry:
   * Time / Other priorities
   * Numerous variables making it difficult to be organized
 * Factors on Profitability
-  * Environmental Patterns  :x: Can't control
-  * Markets :x: Can't Control
-  * Input / Feed Costs  :white_check_mark: Controllable
+  * Environmental Patterns: Can't control
+  * Markets: Can't Control
+  * Input / Feed Costs: Controllable
   
 Our goal is to use data on input costs and market values to help cow/calf producers make better management decisions to increase their profitability.
 
