@@ -8,7 +8,7 @@ Helping you take control of your herd's tomorrow, today!
 ## Background
 Challenges in the Cow/Calf Industry:
 * Extremely volatile and uncertain markets for agricultural commodities
-  * Unexpected weather
+  * Unexpected weather conditions
   * Politics
 * Many cow/calf producers today don’t have records of their operation
   * Time / Other priorities
