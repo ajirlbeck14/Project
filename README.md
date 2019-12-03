@@ -30,7 +30,7 @@ The user has the power to select the market timeframe and what commodities they 
 ![Inputs](Inputs.png "Inputs")
 
 ## Project Workflow
-Here is the layout of how we intend to accomplish our project for the duration of ABE 516X.
+Here is the layout of how we intend to accomplish our project for the duration of ABE 516X
 
 
 ![Project Workflow](516-Project.png "WorkFlow")
